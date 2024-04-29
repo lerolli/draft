@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">beautySalon-Android</string>
+
+    <!--register screen-->
+    <string name="login">Логин</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="site">Соцсеть</string>
+    <string name="save">Сохранить</string>
+    <string name="register">Зарегистрироваться</string>
+
+    <!--login screen-->
+    <string name="phoneNumberHint">Введите номер телефона</string>
+    <string name="phone">Номер телефона</string>
+    <string name="smsCode">Код из СМС</string>
+    <string name="login_button">Войти</string>
+    <string name="send_sms">Прислать код в СМС</string>
+
+    <!--services screen-->
+    <string name="servicesHeader">Список услуг</string>
+
+    <string name="enroll">Записаться</string>
+
+
+
+</resources>
